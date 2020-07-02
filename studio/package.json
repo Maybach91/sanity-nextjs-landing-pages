@@ -19,6 +19,8 @@
     "@sanity/default-login": "^1.149.16",
     "@sanity/desk-tool": "^1.149.16",
     "bcp47": "^1.1.2",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -35,6 +37,6 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-react": "^7.13.0",
     "eslint-plugin-standard": "^4.0.0",
-    "prettier-eslint-cli": "^4.7.1"
+    "prettier-eslint-cli": "^5.0.0"
   }
 }
