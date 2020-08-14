@@ -1,5 +1,5 @@
 [![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=3a852043-1fce-44ef-adec-f705f633af57)
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/Maybach91/sanity-nextjs-landing-pages)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/Maybach91/sanity-nextjs-landing-pages/tree/production)
 
 
 # Next.js landing pages
