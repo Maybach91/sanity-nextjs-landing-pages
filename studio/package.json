@@ -20,7 +20,7 @@
     "@sanity/desk-tool": "^1.149.16",
     "bcp47": "^1.1.2",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
